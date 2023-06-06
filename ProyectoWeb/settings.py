@@ -145,7 +145,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'germanvarela85@gmail.com'
-EMAIL_HOST_PASSWORD = 'nacdlcrywsxasvmm'
+EMAIL_HOST_PASSWORD = 'acaVaElPasswordDeGmail(noElComun,otro)'
 
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
